@@ -2,8 +2,8 @@
 
 ## Sunrise Design
 
-* Current version: 0.16.0
-* Last update: 11.11.2015
+* Current version: 0.17.0
+* Last update: 13.11.2015
 * Repo-URL: [https://github.com/sphereio/sphere-sunrise-design](https://github.com/sphereio/sphere-sunrise-design)
 * Issue overview: [https://github.com/sphereio/sphere-sunrise-design/issues](https://github.com/sphereio/sphere-sunrise-design/issues)
 
